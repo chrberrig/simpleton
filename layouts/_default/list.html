@@ -2,7 +2,7 @@
 	{{ partial "head" . }}
 <body>
 	{{ partial "header" . }}
-	{{.Content}}
+	{{ .Content }}
 	{{ if not .IsHome }}
 		{{ range .Pages }}
 			<div style="border: 1px solid black; margin:10px; padding:10px; ">
