@@ -1,11 +1,11 @@
 :root {
---bg_colour: #141E46;
+--bg_colour: #180161;
 --link_colour: turquoise; 
---hover_colour: #FFF5E0;
---h1_colour: #C70039; 
---h2_colour: #FF6969; 
---h3_colour: #FF6969; 
---text_colour: #FFF5E0;
+--hover_colour: #EB3678;
+--h1_colour: #EB3678; 
+--h2_colour: #FB773C; 
+--h3_colour: #FFDB00; 
+--text_colour: white;
 }
 
 body {
