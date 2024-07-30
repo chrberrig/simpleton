@@ -1,10 +1,10 @@
 :root {
---bg_colour: #180161;
+--bg_colour: #2E2E2E;
 --link_colour: turquoise; 
---hover_colour: #EB3678;
---h1_colour: #EB3678; 
---h2_colour: #FB773C; 
---h3_colour: #FFDB00; 
+--hover_colour: gray;
+--h1_colour: aquamarine; 
+--h2_colour: turquoise; 
+--h3_colour: orchid; 
 --text_colour: white;
 }
 
